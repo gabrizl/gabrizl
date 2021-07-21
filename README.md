@@ -9,7 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrizl&layout=compact&langs_count=7&theme=omni"/>
 </div>
  
- <br>
+
  
 <div> 
   <h2>Links</h2>
